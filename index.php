@@ -60,7 +60,7 @@
 
 require_once("config/db.php");
 
-echo LANG . " holaaa";
+//echo LANG . " holaaa";
 
 ?>
 
